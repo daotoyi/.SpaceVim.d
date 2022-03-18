@@ -89,8 +89,8 @@
   
 # --- C/C++/Python IDE ---
 [[layers]]
-    name = 'lang#c'
-    enable_clang_syntax_highlight = true
+  name = 'lang#c'
+  enable_clang_syntax_highlight = true
 	[layer.clang_std]
     cpp = "c11"
 	
@@ -98,4 +98,4 @@
   name = "lang#python"
   
 [[layers]]
-   name = "debug"
+  name = "debug"
