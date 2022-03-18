@@ -19,7 +19,7 @@ cp autoload/dylayer.vim ~/.SpaceVim/autoload/SpaceVim/layers/
 
 ## bootstrap_before/after
 
-### myspacevim
+### yspacevim
 
 mkdir -p ~/.SpaceVim.d/autoload/, put myspacevim.vim to the directory creted.
 
