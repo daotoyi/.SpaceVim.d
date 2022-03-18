@@ -3,7 +3,7 @@
 
 SpaceVim private configration.
 
-## layer
+## Layer
 
 put dylayer.vim to `~/.SpaceVim/autoload/SpaceVim/layers/`, spacevim will autoload.
 ```shell
@@ -40,6 +40,6 @@ function! myspacevim#before() abort
 endfunction
 ```
 
-## note
+## Note
 
 layer and bootstrap is same configuration.
